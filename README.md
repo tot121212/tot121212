@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Nothing, I'm a genius, isn't it obvious?**
 
-- 💬 Ask me about **Javascript, Godot, GDScript**
+- 💬 Ask me about **Javascript Promises (hah), Godot, GDScript**
 
 - 📫 How to reach me: **totmusicbusiness@gmail.com**
 
