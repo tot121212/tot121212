@@ -14,8 +14,6 @@
 
 - 📫 How to reach me: **totmusicbusiness@gmail.com**
 
-- ⚡ Fun fact: **Javascript is bad, Or is it?...**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/totsnuk/" target="blank">
