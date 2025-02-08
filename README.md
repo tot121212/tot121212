@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, Godot, GDScript**
 
-- 📫 How to reach me **totmusicbusiness@gmail.com**
+- 📫 Reach me at **totmusicbusiness@gmail.com** or Github!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
