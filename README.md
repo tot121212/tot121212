@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Javascript, Godot, GDScript**
 
-- 📫 How to reach me **totmusicbusiness@gmail.com**
+- 📫 How to reach me: **totmusicbusiness@gmail.com**
 
-- ⚡ Fun fact **Javascript is bad, Or is it?...**
+- ⚡ Fun fact: **Javascript is bad, Or is it?...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
