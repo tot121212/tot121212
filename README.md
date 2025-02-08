@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Anything your heart desires...**
 
-- 🤝 I’m looking for help with **Nothing, I'm a genius obviously**
+- 🤝 I’m looking for help with **Nothing, I'm a genius, isn't it obvious?**
 
 - 💬 Ask me about **Javascript, Godot, GDScript**
 
