@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I am Totsnuk</h1>
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
-- 🔭 Currently working on [The Odin Project](https://www.theodinproject.com/dashboard) and various [Godot](https://godotengine.org/) projects.
+- 🔭 Currently working on [The Odin Project](https://www.theodinproject.com/) and various [Godot](https://godotengine.org/) projects.
 
 - 🌱 I’m currently learning **React, PostgreSQL, Typescript, Godot**
 
