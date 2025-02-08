@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Nothing, I'm a genius obviously**
 
-- ⚡ Fun fact [Javascript is bad? Or is it...](Javascript is bad? Or is it...)
+- ⚡ Fun fact **Javascript is bad? Or is it?...**
 
 - 💬 Ask me about **Javascript, Godot, GDScript**
 
