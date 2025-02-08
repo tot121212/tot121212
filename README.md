@@ -1,7 +1,8 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tot121212&show_icons=true&theme=radical&locale=en&layout=compact" alt="tot121212" /></p>
 
 <h1 align="center">Hello, I am Totsnuk</h1>
 <h3 align="center">I'm a slime man in a strange world...</h3>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tot121212&show_icons=true&theme=radical&locale=en&layout=compact" alt="tot121212" /></p>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/dashboard)
 
