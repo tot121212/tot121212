@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/dashboard)
 
-- 🌱 I’m currently learning **React, PostgreSQL, Javascript, Typescript**
+- 🌱 I’m currently learning **React, PostgreSQL, Typescript, Godot**
 
 - 👯 I’m looking to collaborate on **Anything your heart desires...**
 
