@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Anything your heart desires...**
 
-- 💬 Ask me about **Javascript, Godot, GDScript**
+- 💬 Ask me about **Javascript, Godot**
 
 - 📫 How to reach me: **totmusicbusiness@gmail.com**
 
