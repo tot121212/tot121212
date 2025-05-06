@@ -3,8 +3,8 @@
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
 <h3>Working on various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved, frustrating me to no end</h3>
-Godot > Unity fr
-Interested in - Gundams, Trains, and Cookies. All the things a growing autist needs.
+<p>Godot > Unity fr fr</p>
+<p>Interested in - Gundams, Trains, and Cookies. All the things a growing autist needs.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/totsnuk/" target="blank">
