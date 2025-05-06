@@ -6,7 +6,7 @@
 <h4 align="center">Various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved, frustrating me to no end...</h4>
 
 <h3 align="center">Interests</h3>
-<h4 align="center">Guns, High risk activities, and Potato Chips. All the things a growing autist needs.</h4>
+<h4 align="center">Guns, High risk activities, and Potato Chips. All the things a growing AutiADHD individual needs.</h4>
 
 <h3 align="center">Priorities</h3>
 <h4 align="center">Fixing peoples broken mods because I just can't live without them</h4>
