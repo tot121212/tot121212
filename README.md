@@ -3,7 +3,7 @@
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
 <h3>Working on various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved.</h3>
-<h3>Godot is king</h3>
+Godot > Unity fr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
