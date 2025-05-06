@@ -58,10 +58,6 @@
 </p>
 <br>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tot121212&show_icons=true&theme=radical&locale=en&layout=compact" alt="tot121212" />
-</p>
-
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://ko-fi.com/https://ko-fi.com/totsnuk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/totsnuk" /></a>
