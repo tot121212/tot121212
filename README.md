@@ -6,12 +6,12 @@
 <h4 align="center">Various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved, frustrating me to no end</h4>
 
 <h3 align="center">Interests</h3>
-<h4 align="center">Gundams, Trains, and Cookies. All the things a growing autist needs.</h4>
+<h4 align="center">Guns, Trains, and Potato Chips. All the things a growing autist needs.</h4>
 
 <h3 align="center">Priorities</h3>
 <h4 align="center">Fixing peoples broken mods because I just can't live without them</h4>
 
-<h3 align="left">Hire me!!!</h3>
+<h3 align="left">LinkedIn</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/totsnuk/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/totsnuk/" height="30" width="40" />
