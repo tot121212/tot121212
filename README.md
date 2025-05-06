@@ -2,15 +2,7 @@
 <h1 align="center">Hello, I am Totsnuk</h1>
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
-- 🔭 Currently working on [The Odin Project](https://www.theodinproject.com/) and various [Godot](https://godotengine.org/) projects.
-
-- 🌱 I’m currently learning **React, PostgreSQL, Typescript, Godot**
-
-- 👯 I’m looking to collaborate on **Anything your heart desires...**
-
-- 💬 Ask me about **Javascript, Godot**
-
-- 📫 How to reach me: **totmusicbusiness@gmail.com**
+Working on various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
