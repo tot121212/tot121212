@@ -6,10 +6,10 @@
 <h3>Various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved, frustrating me to no end</h3>
 
 <h2>Interests</h2>
-<p>Gundams, Trains, and Cookies. All the things a growing autist needs.</p>
+<h3>Gundams, Trains, and Cookies. All the things a growing autist needs.</h3>
 
 <h2>Priorities</h2>
-<p>Fixing peoples broken mods because I just can't live without them</p>
+<h4>Fixing peoples broken mods because I just can't live without them</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
