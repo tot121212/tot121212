@@ -2,13 +2,13 @@
 <h1 align="center">Hello, I am Totsnuk</h1>
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
-<h3>Working on</h3>
+<h3 align="center">Working on</h3>
 <h4>Various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved, frustrating me to no end</h4>
 
-<h3>Interests</h3>
+<h3 align="center">Interests</h3>
 <h4>Gundams, Trains, and Cookies. All the things a growing autist needs.</h4>
 
-<h3>Priorities</h3>
+<h3 align="center">Priorities</h3>
 <h4>Fixing peoples broken mods because I just can't live without them</h4>
 
 <h3 align="left">Connect with me:</h3>
