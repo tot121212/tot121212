@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I am Totsnuk</h1>
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
-<p>Working on various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved.</p>
+<h3>Working on various implementations of a grid-centered, turn-based, exchange system of commands, sent via websocket, that all timeout before they can be recieved.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
