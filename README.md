@@ -10,6 +10,8 @@
 
 <h3 align="center">Priorities</h3>
 <h4 align="center">Fixing peoples broken mods because I just can't live without them</h4>
+<h4 align="center">Making new mods because peoples mods are broken.</h4>
+<h4 align="center">Breaking my own mods because I like to.</h4>
 
 <h3 align="left">LinkedIn</h3>
 <p align="left">
