@@ -2,10 +2,10 @@
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
 <h3 align="center">Working on</h3>
-<h4 align="center">Java software that has copious amounts of testing</h4>
+<h4 align="center">A Java Spring Boot & JS based card game.</h4>
 
 <h3 align="center">Interests</h3>
-<h4 align="center">Guns, High risk activities, and Potato Chips. All the things a growing AutiADHD individual needs.</h4>
+<h4 Making music and games, high risk activities, and salty snacks. All the things a growing ADHD individual needs.</h4>
 
 <h3 align="center">Priorities</h3>
 <h4 align="center">Fixing peoples broken mods because I just can't live without them</h4>
