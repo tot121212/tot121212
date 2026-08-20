@@ -2,7 +2,7 @@
 <h3 align="center">I'm a slime man in a strange world...</h3><br>
 
 <h3 align="center">Working on</h3>
-<h4 align="center">A Java Spring Boot & JS based card game.</h4>
+<h4 align="center">Jack shit tbh.</h4>
 
 <h3 align="center">Interests</h3>
 <h4> Making music and games, high risk activities, and salty snacks. All the things a growing ADHD individual needs.</h4>
